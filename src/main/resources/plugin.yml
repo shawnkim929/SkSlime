@@ -1,0 +1,7 @@
+name: SkSlime
+version: '${project.version}'
+main: shawnkim929.skslime.SkSlime
+api-version: '1.20'
+load: STARTUP
+depend: [SlimeWorldManager]
+authors: [Shawn Kim]
